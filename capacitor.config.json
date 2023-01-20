@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "oceanshark",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

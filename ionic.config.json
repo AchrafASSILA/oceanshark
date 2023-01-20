@@ -1,0 +1,7 @@
+{
+  "name": "oceanshark",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
